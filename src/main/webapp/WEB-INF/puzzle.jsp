@@ -28,6 +28,8 @@
 	<div id="winTitle">
 		<jsp:include page="/part2.jsp" />
 	</div>
+	<h4>Сертификационная работа DevOps инженер 2021, Кульбида В.А.</h4>
+	<h6>web app Puzzle15 (c) https://github.com/venkaDaria</h6>
 	</div>
 </body>
 </html>
