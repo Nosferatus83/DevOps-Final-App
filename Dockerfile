@@ -1,5 +1,5 @@
 # Этап сборки
-FROM maven:3.8-openjdk-11 as builder
+FROM maven:3.8-openjdk-11 AS builder
 
 RUN git clone https://github.com/Nosferatus83/DevOps-Final-App.git
 WORKDIR /DevOps-Final-App
