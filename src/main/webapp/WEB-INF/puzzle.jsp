@@ -28,8 +28,7 @@
 	<div id="winTitle">
 		<jsp:include page="/part2.jsp" />
 	</div>
-	<h4><a href="https://github.com/Nosferatus83/DevOps-Final" target="_blank" rel="noopener noreferrer">Сертификационная работа DevOps инженер 2021, Кульбида В.А.</a></h4>
-	<h6>web app Puzzle15 (c) <a href="https://github.com/venkaDaria" target="_blank" rel="noopener noreferrer">https://github.com/venkaDaria</a></h6>
+	<h4><a href="https://github.com/Nosferatus83/DevOps-Final" target="_blank" rel="noopener noreferrer">Сертификационная работа DevOps инженер 2021</a></h4>
 	</div>
 </body>
 </html>
